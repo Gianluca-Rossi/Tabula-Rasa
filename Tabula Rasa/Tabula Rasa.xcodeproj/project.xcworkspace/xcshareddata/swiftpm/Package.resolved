@@ -1,0 +1,43 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "LocalConsole",
+        "repositoryURL": "https://github.com/duraidabdul/LocalConsole/",
+        "state": {
+          "branch": null,
+          "revision": "2c5d5e018acd4963fe6dfe858f6d6fecef7cbf2f",
+          "version": "1.12.1"
+        }
+      },
+      {
+        "package": "SQLite.swift",
+        "repositoryURL": "https://github.com/stephencelis/SQLite.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "7a2e3cd27de56f6d396e84f63beefd0267b55ccb",
+          "version": "0.14.1"
+        }
+      },
+      {
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/apple/swift-argument-parser.git",
+        "state": {
+          "branch": null,
+          "revision": "8f4d2753f0e4778c76d5f05ad16c74f707390531",
+          "version": "1.2.3"
+        }
+      },
+      {
+        "package": "swift-collections",
+        "repositoryURL": "https://github.com/apple/swift-collections.git",
+        "state": {
+          "branch": null,
+          "revision": "a902f1823a7ff3c9ab2fba0f992396b948eda307",
+          "version": "1.0.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
